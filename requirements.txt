@@ -1,0 +1,5 @@
+fastapi==0.85.1
+keytotext==2.3.2
+pydantic==1.9.2
+uvicorn
+gunicorn
